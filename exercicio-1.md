@@ -1,4 +1,4 @@
-# RWA Exercicios
+# RWA Exercícios
 
 ## Descrição
 
