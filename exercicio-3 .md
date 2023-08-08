@@ -6,7 +6,7 @@ O Real World App (RWA) é um aplicativo criado pela equipe do Cypress para demon
 
 Repo do RWA: https://github.com/cypress-io/cypress-realworld-app
 
-### Casos de teste
+## Casos de teste
 
 Exercício: Criação de Casos de Teste para a Feature "Visualizar Histórico de Transações"
 
@@ -19,7 +19,7 @@ Caso de Teste: Tentar visualizar o histórico de transações de um usuário sem
 
 Descrição: Garanta que o sistema exiba uma mensagem indicando que o usuário não possui transações anteriores caso tente visualizar o histórico sem transações registradas.
 
-### Automação dos casos de teste
+## Automação dos casos de teste
 
 Exercício: Automação dos Casos de Teste "Visualizar Histórico de Transações"
 
@@ -62,4 +62,4 @@ Crie um post de Linkedin sobre um projeto de automação Cypress que estou reali
 Eu criei casos de teste para a feature de {Feature testada} do projeto Real World App do Cypress IO.
 Eu também automatizei os mesmos casos de teste com o Cypress
 ```
-Aproveite e mencionae a LuimeStack no post 😉
+Aproveite e mencione a LumeStack no post 😉
