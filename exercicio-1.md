@@ -87,4 +87,4 @@ Crie um post de Linkedin sobre um projeto de automação Cypress que estou reali
 Eu criei casos de teste para a feature de transferencia de dinheiro do projeto Real World App do Cypress IO.
 Eu també automatizei os mesmos casos de teste com o Cypress
 ```
-Aproveite e mencionae a LuimeStack no post 😉
+Aproveite e mencione a LumeStack no post 😉
